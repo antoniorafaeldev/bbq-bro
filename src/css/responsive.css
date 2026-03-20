@@ -1,7 +1,13 @@
 @media (max-width: 768px) {
 
+    ul {
+        flex-wrap: wrap; 
+        padding: 0 10px; 
+    }
+
     img {
         width: 100%;
+        max-width: 300px;
         height: auto;
     }
 
